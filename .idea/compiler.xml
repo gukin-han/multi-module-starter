@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+        </processorPath>
+        <module name="multi-module-starter.apps.main" />
+        <module name="multi-module-starter.libs.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.30/f195ee86e6c896ea47a1d39defbe20eb59cd149d/lombok-1.18.30.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.2.4/6f615928a73fec926e9a5e2fffc66da22666b8f7/spring-boot-configuration-processor-3.2.4.jar" />
+        </processorPath>
+        <module name="multi-module-starter.libs.core.main" />
+        <module name="multi-module-starter.apps.api.main" />
+        <module name="multi-module-starter.apps.batch.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="multi-module-stater.apps" target="21" />
+      <module name="multi-module-stater.apps.api" target="21" />
+      <module name="multi-module-stater.apps.api.main" target="21" />
+      <module name="multi-module-stater.apps.api.test" target="21" />
+      <module name="multi-module-stater.apps.batch" target="21" />
+      <module name="multi-module-stater.apps.batch.main" target="21" />
+      <module name="multi-module-stater.apps.batch.test" target="21" />
+      <module name="multi-module-stater.apps.main" target="21" />
+      <module name="multi-module-stater.apps.test" target="21" />
+      <module name="multi-module-stater.libs" target="21" />
+      <module name="multi-module-stater.libs.core" target="21" />
+      <module name="multi-module-stater.libs.core.main" target="21" />
+      <module name="multi-module-stater.libs.core.test" target="21" />
+      <module name="multi-module-stater.libs.main" target="21" />
+      <module name="multi-module-stater.libs.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

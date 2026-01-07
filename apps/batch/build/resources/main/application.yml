@@ -1,0 +1,9 @@
+server:
+  port: 9092
+spring:
+  batch:
+    job:
+      enabled: true
+batch:
+  scheduler:
+    enabled: true
